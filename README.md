@@ -13,8 +13,9 @@ Developed an end-to-end resume evaluation tool capable of extracting skills, ana
 Repository: https://github.com/Warmachinerox007/airesume  
 
 ### Smart Crop Protection Using AI  
-**Tech:** OpenCV, TensorFlow, Raspberry Pi  
-Built a real-time animal detection system for farmland protection using computer vision and lightweight deep learning models.
+**Tech:** OpenCV, TensorFlow, YOLOv5, Raspberry Pi  
+Built a real-time animal detection system for farmland protection using YOLOv5 and OpenCV.  
+Repository: https://github.com/Warmachinerox007/animal-detection-yolov5
 
 ### River Waste Detection (Ongoing)  
 **Tech:** YOLOv8, Computer Vision  
